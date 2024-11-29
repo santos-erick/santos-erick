@@ -1,7 +1,7 @@
 Hey there, welcome!
 
 My name is Erick and I am a dedicated Internet Systems student who is excited to take my first steps into the world of Front-end.
-Currently, I am in a career transition to the programming area and have knowledge in HTML, CSS, Javascript and React.js
+Currently, I am in a career transition to the programming area and have knowledge in HTML, CSS and Javascript.
   
 💞️ I love alternative rock, volleyball and good gastronomy.
 
